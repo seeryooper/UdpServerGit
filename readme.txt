@@ -4,3 +4,4 @@ canData.py is about the save data to sqlite3's class.
 sqlsentence.py is about the sql sentences which will be used in the program.
 UdpServer.py is a test python program for UDP communication.
 TcpServer.py is a test python program for TCP communication.
+LICENSE is a license file for this program.

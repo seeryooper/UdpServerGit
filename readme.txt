@@ -7,3 +7,4 @@ TcpServer.py is a test python program for TCP communication.
 LICENSE is a license file for this program.
 
 More information about the program:
+Tcp is better than Udp in this program.
